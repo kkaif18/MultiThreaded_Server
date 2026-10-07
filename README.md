@@ -60,8 +60,3 @@ Then visit `http://localhost:8080/` in a browser, or:
 curl http://localhost:8080/
 ```
 
-## What's next
-
-- Support for more HTTP methods (POST, PUT)
-- Keep-alive connections
-- Configurable thread pool size
